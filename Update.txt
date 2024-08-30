@@ -1,1 +1,1 @@
-status="on" description="وصف التحديث هنا" link="https://example.com/update-link"
+status="on" description="تحديث جديد متاح للتطبيق! يحتوي هذا التحديث على تحسينات جديدة وإصلاحات للأخطاء." link="https://play.google.com/store/apps/details?id=com.adobe.lrmobile"
