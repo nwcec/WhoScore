@@ -1,1 +1,2 @@
-18,5,This is your scheduled notification at 6:05 PM
+18,8,This is your scheduled notification at 6:05 PM
+18,10,This is your scheduled notification at 6:05 PM
