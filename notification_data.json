@@ -1,17 +1,17 @@
 [
     {
         "hour": 2,
-        "minute": 30,
+        "minute": 50,
         "text": "بدأ مبارة ريال ضد برشلونة على قناة Bein Sport 1"
     },
     {
         "hour": 2,
-        "minute": 25,
-        "text": "This is another notification at 7:30 PM"
+        "minute": 52,
+        "text": "بدأ مباراة مانشستر يونايتد ضد ليفربول على قناة Bein Sport 2"
     },
     {
         "hour": 2,
-        "minute": 27,
-        "text": "This is a third notification at 8:45 PM"
+        "minute": 54,
+        "text": "بدأ مبارة تشيلسي ضد توتنهام على قناة Bein Sport 3"
     }
 ]
